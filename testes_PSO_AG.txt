@@ -1,0 +1,235 @@
+Testes:
+
+Robot 01:
+	processadores: 6
+	espacoBusca: 1000000
+	tamanhoEnxame: 100
+	iteracoesPSO: 3000
+	C1: 2
+	C2: 2
+	inercia: 0.4
+	taxaCrossover: 0.4
+	taxaMutacao: 0.2
+	iteracoesAG: 50
+	Resultados:
+		Melhor fitness: 0.0007605
+		Iteracao da melhor fitness: 47
+		212.2199947834015 segundos
+
+
+Robot 02:
+	processadores: 6
+	espacoBusca: 1000000
+	tamanhoEnxame: 100
+	iteracoesPSO: 3000
+	C1: 2
+	C2: 2
+	inercia: 0.4
+	taxaCrossover: 0.4
+	taxaMutacao: 0.2
+	iteracoesAG: 100
+	Resultados:
+		Melhor fitness: 0.0005945
+		Iteracao da melhor fitness: 99
+		213.46754837036133 segundos
+
+
+Robot 03:
+	processadores: 6
+	espacoBusca: 1000000
+	tamanhoEnxame: 100
+	iteracoesPSO: 3000
+	C1: 2
+	C2: 2
+	inercia: 0.4
+	taxaCrossover: 0.4
+	taxaMutacao: 0.2
+	iteracoesAG: 500
+	Resultados:
+		Melhor fitness: 0.0004272
+		Iteracao da melhor fitness: 500
+		234.03316116333008 segundos
+
+
+Robot 04:
+	processadores: 6
+	espacoBusca: 1000000
+	tamanhoEnxame: 100
+	iteracoesPSO: 3000
+	C1: 2
+	C2: 2
+	inercia: 0.4
+	taxaCrossover: 0.4
+	taxaMutacao: 0.2
+	iteracoesAG: 1500
+	Resultados:
+		Melhor fitness: 0.0004029
+		Iteracao da melhor fitness: 1159
+		289.7903890609741 segundos
+
+Robot 05:
+	processadores: 6
+	espacoBusca: 1000000
+	tamanhoEnxame: 100
+	iteracoesPSO: 3000
+	C1: 2
+	C2: 2
+	inercia: 0.4
+	taxaCrossover: 0.2
+	taxaMutacao: 0.1
+	iteracoesAG: 500
+	Resultados:
+		Melhor fitness: 0.0004610
+		Iteracao da melhor fitness: 486
+		234.2472403049469 segundos
+
+
+Robot 06:
+	processadores: 6
+	espacoBusca: 1000000
+	tamanhoEnxame: 100
+	iteracoesPSO: 3000
+	C1: 2
+	C2: 2
+	inercia: 0.4
+	taxaCrossover: 0.2
+	taxaMutacao: 0.1
+	iteracoesAG: 500
+	Resultados:
+		Melhor fitness: 0.0004027
+		Iteracao da melhor fitness: 2263
+		560.7238616943359 segundos
+
+
+Robot 07:
+	processadores: 6
+	espacoBusca: 1000000
+	tamanhoEnxame: 100
+	iteracoesPSO: 3000
+	C1: 2
+	C2: 2
+	inercia: 0.4
+	taxaCrossover: 0.2
+	taxaMutacao: 0.1
+	iteracoesAG: 500
+	Resultados:
+		Melhor fitness: 0.0004029
+		Iteracao da melhor fitness: 654
+		285.5654366016388 segundos
+
+
+
+Sparse 01:
+	processadores: 4
+	espacoBusca: 500000
+	tamanhoEnxame: 100
+	iteracoesPSO: 3000
+	C1: 2
+	C2: 2
+	inercia: 0.4
+	taxaCrossover: 0.8
+	taxaMutacao: 0.02
+	iteracoesAG: 50
+	Resultados:
+		Melhor fitness: 0.0009960
+		Iteracao da melhor fitness: 46
+		136.5923717021942 segundos
+
+Sparse 02:
+	processadores: 4
+	espacoBusca: 500000
+	tamanhoEnxame: 100
+	iteracoesPSO: 3000
+	C1: 2
+	C2: 2
+	inercia: 0.4
+	taxaCrossover: 0.8
+	taxaMutacao: 0.02
+	iteracoesAG: 100
+	Resultados:
+		Melhor fitness: 0.0008278
+		Iteracao da melhor fitness: 96
+		139.83553671836853 segundos
+
+Sparse 03:
+	processadores: 4
+	espacoBusca: 500000
+	tamanhoEnxame: 100
+	iteracoesPSO: 3000
+	C1: 2
+	C2: 2
+	inercia: 0.4
+	taxaCrossover: 0.8
+	taxaMutacao: 0.02
+	iteracoesAG: 1000
+	Resultados:
+		Melhor fitness: 0.0005411
+		Iteracao da melhor fitness: 1000
+		192.3693516254425 segundos
+
+Sparse 04:
+	processadores: 4
+	espacoBusca: 500000
+	tamanhoEnxame: 200
+	iteracoesPSO: 3000
+	C1: 2
+	C2: 2
+	inercia: 0.4
+	taxaCrossover: 0.4
+	taxaMutacao: 0.1
+	iteracoesAG: 1000
+	Resultados:
+		Melhor fitness: 0.0005165
+		Iteracao da melhor fitness: 486
+		295.55036902427673 segundos
+
+
+Sparse 05:
+	processadores: 4
+	espacoBusca: 500000
+	tamanhoEnxame: 200
+	iteracoesPSO: 3000
+	C1: 2
+	C2: 2
+	inercia: 0.4
+	taxaCrossover: 0.4
+	taxaMutacao: 0.1
+	iteracoesAG: 500
+	Resultados:
+		Melhor fitness: 0.0005165
+		Iteracao da melhor fitness: 379
+		235.78871083259583 segundos
+
+
+Sparse 06:
+	processadores: 4
+	espacoBusca: 500000
+	tamanhoEnxame: 100
+	iteracoesPSO: 3000
+	C1: 2
+	C2: 2
+	inercia: 0.4
+	taxaCrossover: 0.4
+	taxaMutacao: 0.1
+	iteracoesAG: 1000
+	Resultados:
+		Melhor fitness: 0.0005165
+		Iteracao da melhor fitness: 596
+		192.2650420665741 segundos
+
+
+Sparse 07:
+	processadores: 4
+	espacoBusca: 500000
+	tamanhoEnxame: 100
+	iteracoesPSO: 3000
+	C1: 2
+	C2: 2
+	inercia: 0.4
+	taxaCrossover: 0.4
+	taxaMutacao: 0.1
+	iteracoesAG: 2000
+	Resultados:
+		Melhor fitness: 0.0005165
+		Iteracao da melhor fitness: 682
+		250.24032282829285 segundos
